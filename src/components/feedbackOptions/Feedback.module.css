@@ -1,0 +1,15 @@
+.FeedbackOptions {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+button {
+  margin-right: 10px;
+  padding: 5px 10px;
+}
+
+.button:hover {
+  background-color: #179fda;
+  color: white;
+  border: 1px solid black;
+}

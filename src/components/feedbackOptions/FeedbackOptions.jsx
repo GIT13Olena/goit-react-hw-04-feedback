@@ -23,7 +23,7 @@
 // };
 
 // export default FeedbackOptions;
-import React, { useState } from 'react';
+import React from 'react';
 import PropTypes from 'prop-types';
 import styles from './Feedback.module.css';
 
